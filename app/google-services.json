@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153800117942",
+    "firebase_url": "https://mygains-107ea.firebaseio.com",
+    "project_id": "mygains-107ea",
+    "storage_bucket": "mygains-107ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153800117942:android:eee4fd6e48dfb63a",
+        "android_client_info": {
+          "package_name": "com.josh2.mygains"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153800117942-i55iu8maee038ptnnms5m67d3ttd306u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josh2.mygains",
+            "certificate_hash": "fd8caedc0a33edb51064fcb3b5a9f16b133ec96a"
+          }
+        },
+        {
+          "client_id": "153800117942-g807bco2amjrtoals00nnek3nsd8brqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpWowAEO8T2iRYx5BwS7fEzvI6rXJfD6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153800117942-g807bco2amjrtoals00nnek3nsd8brqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
